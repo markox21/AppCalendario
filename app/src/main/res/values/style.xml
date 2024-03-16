@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CalendarDateText">
+        <item name="android:textColor">#ffffff</item> <!-- Cambia el color del texto del calendario a un tono gris oscuro -->
+    </style>
+    <style name="CalendarMonthText">
+        <item name="android:textColor">#ffffff</item> <!-- Cambia el color del mes a un tono gris oscuro -->
+    </style>
+
+    <style name="CalendarWeekDayText">
+        <item name="android:textColor">#ffffff</item> <!-- Cambia el color de las letras de los días a un tono gris oscuro -->
+    </style>
+</resources>
